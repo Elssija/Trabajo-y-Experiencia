@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aguil\\source\\repos\\Tarea1.2_JairoAguilera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1896AA0-6BC6-3378-5B66-7AFA890D0A39}|Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera.csproj|c:\\users\\aguil\\source\\repos\\tarea1.2_jairoaguilera\\tarea1.2_jairoaguilera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1896AA0-6BC6-3378-5B66-7AFA890D0A39}|Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera.csproj|solutionrelative:tarea1.2_jairoaguilera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1896AA0-6BC6-3378-5B66-7AFA890D0A39}|Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera.csproj|c:\\users\\aguil\\source\\repos\\tarea1.2_jairoaguilera\\tarea1.2_jairoaguilera\\ejc4\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1896AA0-6BC6-3378-5B66-7AFA890D0A39}|Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera.csproj|solutionrelative:tarea1.2_jairoaguilera\\ejc4\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1896AA0-6BC6-3378-5B66-7AFA890D0A39}|Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera.csproj|c:\\users\\aguil\\source\\repos\\tarea1.2_jairoaguilera\\tarea1.2_jairoaguilera\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1896AA0-6BC6-3378-5B66-7AFA890D0A39}|Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera.csproj|solutionrelative:tarea1.2_jairoaguilera\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1896AA0-6BC6-3378-5B66-7AFA890D0A39}|Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera.csproj|c:\\users\\aguil\\source\\repos\\tarea1.2_jairoaguilera\\tarea1.2_jairoaguilera\\ejc5\\tanqueagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1896AA0-6BC6-3378-5B66-7AFA890D0A39}|Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera.csproj|solutionrelative:tarea1.2_jairoaguilera\\ejc5\\tanqueagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera\\Tareas.cs",
+              "RelativeDocumentMoniker": "Tarea1.2_JairoAguilera\\Tareas.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera\\Tareas.cs",
+              "RelativeToolTip": "Tarea1.2_JairoAguilera\\Tareas.cs",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAswFABAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T23:06:46.726Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TanqueAgua.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera\\Ejc5\\TanqueAgua.cs",
+              "RelativeDocumentMoniker": "Tarea1.2_JairoAguilera\\Ejc5\\TanqueAgua.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera\\Ejc5\\TanqueAgua.cs",
+              "RelativeToolTip": "Tarea1.2_JairoAguilera\\Ejc5\\TanqueAgua.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:31:14.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera\\Ejc4\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Tarea1.2_JairoAguilera\\Ejc4\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera\\Ejc4\\Rectangulo.cs",
+              "RelativeToolTip": "Tarea1.2_JairoAguilera\\Ejc4\\Rectangulo.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T22:07:21.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea1.2_JairoAguilera\\Program.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.2_JairoAguilera\\Tarea1.2_JairoAguilera\\Program.cs*",
+              "RelativeToolTip": "Tarea1.2_JairoAguilera\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T21:50:36.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

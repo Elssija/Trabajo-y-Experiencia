@@ -1,0 +1,14 @@
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\bin\Debug\net10.0\Tarea1.2_JairoAguilera.exe
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\bin\Debug\net10.0\Tarea1.2_JairoAguilera.deps.json
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\bin\Debug\net10.0\Tarea1.2_JairoAguilera.runtimeconfig.json
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\bin\Debug\net10.0\Tarea1.2_JairoAguilera.dll
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\bin\Debug\net10.0\Tarea1.2_JairoAguilera.pdb
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\obj\Debug\net10.0\Tarea1.2_JairoAguilera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\obj\Debug\net10.0\Tarea1.2_JairoAguilera.AssemblyInfoInputs.cache
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\obj\Debug\net10.0\Tarea1.2_JairoAguilera.AssemblyInfo.cs
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\obj\Debug\net10.0\Tarea1.2_JairoAguilera.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\obj\Debug\net10.0\Tarea1.2_JairoAguilera.dll
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\obj\Debug\net10.0\refint\Tarea1.2_JairoAguilera.dll
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\obj\Debug\net10.0\Tarea1.2_JairoAguilera.pdb
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\obj\Debug\net10.0\Tarea1.2_JairoAguilera.genruntimeconfig.cache
+C:\Users\aguil\source\repos\Tarea1.2_JairoAguilera\Tarea1.2_JairoAguilera\obj\Debug\net10.0\ref\Tarea1.2_JairoAguilera.dll

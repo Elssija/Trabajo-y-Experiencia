@@ -1,0 +1,14 @@
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\obj\Debug\net10.0\Tarea1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\obj\Debug\net10.0\Tarea1.3.AssemblyInfoInputs.cache
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\obj\Debug\net10.0\Tarea1.3.AssemblyInfo.cs
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\obj\Debug\net10.0\Tarea1.3.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\bin\Debug\net10.0\Tarea1.3.exe
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\bin\Debug\net10.0\Tarea1.3.deps.json
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\bin\Debug\net10.0\Tarea1.3.runtimeconfig.json
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\bin\Debug\net10.0\Tarea1.3.dll
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\bin\Debug\net10.0\Tarea1.3.pdb
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\obj\Debug\net10.0\Tarea1.3.dll
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\obj\Debug\net10.0\refint\Tarea1.3.dll
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\obj\Debug\net10.0\Tarea1.3.pdb
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\obj\Debug\net10.0\Tarea1.3.genruntimeconfig.cache
+C:\Users\aguil\source\repos\Tarea1.3\Tarea1.3\obj\Debug\net10.0\ref\Tarea1.3.dll
