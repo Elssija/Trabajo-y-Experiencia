@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|c:\\users\\aguil\\source\\repos\\tarea1.3\\tarea1.3\\ejc1\\clases\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|solutionrelative:tarea1.3\\ejc1\\clases\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|c:\\users\\aguil\\source\\repos\\tarea1.3\\tarea1.3\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|solutionrelative:tarea1.3\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|c:\\users\\aguil\\source\\repos\\tarea1.3\\tarea1.3\\ejc1\\cuentaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|solutionrelative:tarea1.3\\ejc1\\cuentaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|c:\\users\\aguil\\source\\repos\\tarea1.3\\tarea1.3\\ejc2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|solutionrelative:tarea1.3\\ejc2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|c:\\users\\aguil\\source\\repos\\tarea1.3\\tarea1.3\\ejc2\\productora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|solutionrelative:tarea1.3\\ejc2\\productora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|c:\\users\\aguil\\source\\repos\\tarea1.3\\tarea1.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|solutionrelative:tarea1.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|c:\\users\\aguil\\source\\repos\\tarea1.3\\tarea1.3\\ejc1\\clases\\tarjetadebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|solutionrelative:tarea1.3\\ejc1\\clases\\tarjetadebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|c:\\users\\aguil\\source\\repos\\tarea1.3\\tarea1.3\\ejc2\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD15FFA-03D7-509C-0335-B42D81D9AC56}|Tarea1.3\\Tarea1.3.csproj|solutionrelative:tarea1.3\\ejc2\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaAhorro.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc1\\CuentaAhorro.cs",
+              "RelativeDocumentMoniker": "Tarea1.3\\Ejc1\\CuentaAhorro.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc1\\CuentaAhorro.cs",
+              "RelativeToolTip": "Tarea1.3\\Ejc1\\CuentaAhorro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:58:01.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc1\\Clases\\Banco.cs",
+              "RelativeDocumentMoniker": "Tarea1.3\\Ejc1\\Clases\\Banco.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc1\\Clases\\Banco.cs",
+              "RelativeToolTip": "Tarea1.3\\Ejc1\\Clases\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:57:53.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Tareas.cs",
+              "RelativeDocumentMoniker": "Tarea1.3\\Tareas.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Tareas.cs",
+              "RelativeToolTip": "Tarea1.3\\Tareas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T21:12:57.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc2\\Pelicula.cs",
+              "RelativeDocumentMoniker": "Tarea1.3\\Ejc2\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc2\\Pelicula.cs",
+              "RelativeToolTip": "Tarea1.3\\Ejc2\\Pelicula.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:55:01.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Productora.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc2\\Productora.cs",
+              "RelativeDocumentMoniker": "Tarea1.3\\Ejc2\\Productora.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc2\\Productora.cs",
+              "RelativeToolTip": "Tarea1.3\\Ejc2\\Productora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:45:47.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc2\\Persona.cs",
+              "RelativeDocumentMoniker": "Tarea1.3\\Ejc2\\Persona.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc2\\Persona.cs",
+              "RelativeToolTip": "Tarea1.3\\Ejc2\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:41:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea1.3\\Program.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Program.cs",
+              "RelativeToolTip": "Tarea1.3\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwBsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T21:29:34.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarjetaDebito.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc1\\Clases\\TarjetaDebito.cs",
+              "RelativeDocumentMoniker": "Tarea1.3\\Ejc1\\Clases\\TarjetaDebito.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea1.3\\Tarea1.3\\Ejc1\\Clases\\TarjetaDebito.cs",
+              "RelativeToolTip": "Tarea1.3\\Ejc1\\Clases\\TarjetaDebito.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:57:56.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

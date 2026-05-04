@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|c:\\users\\aguil\\source\\repos\\tarea_1.4\\tarea_1.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|solutionrelative:tarea_1.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|c:\\users\\aguil\\source\\repos\\tarea_1.4\\tarea_1.4\\tarea2\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|solutionrelative:tarea_1.4\\tarea2\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|c:\\users\\aguil\\source\\repos\\tarea_1.4\\tarea_1.4\\tarea2\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|solutionrelative:tarea_1.4\\tarea2\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|c:\\users\\aguil\\source\\repos\\tarea_1.4\\tarea_1.4\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|solutionrelative:tarea_1.4\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|c:\\users\\aguil\\source\\repos\\tarea_1.4\\tarea_1.4\\tarea2\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|solutionrelative:tarea_1.4\\tarea2\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|c:\\users\\aguil\\source\\repos\\tarea_1.4\\tarea_1.4\\tarea2\\registroventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|solutionrelative:tarea_1.4\\tarea2\\registroventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|c:\\users\\aguil\\source\\repos\\tarea_1.4\\tarea_1.4\\tarea1\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|solutionrelative:tarea_1.4\\tarea1\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|c:\\users\\aguil\\source\\repos\\tarea_1.4\\tarea_1.4\\tarea1\\artefacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|solutionrelative:tarea_1.4\\tarea1\\artefacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|c:\\users\\aguil\\source\\repos\\tarea_1.4\\tarea_1.4\\tarea1\\hechizo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A0DAD-5CA2-DC43-581D-4187BB1B6D55}|Tarea_1.4\\Tarea_1.4.csproj|solutionrelative:tarea_1.4\\tarea1\\hechizo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea2\\Auto.cs",
+              "RelativeDocumentMoniker": "Tarea_1.4\\Tarea2\\Auto.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea2\\Auto.cs",
+              "RelativeToolTip": "Tarea_1.4\\Tarea2\\Auto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:23:10.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea2\\Motor.cs",
+              "RelativeDocumentMoniker": "Tarea_1.4\\Tarea2\\Motor.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea2\\Motor.cs",
+              "RelativeToolTip": "Tarea_1.4\\Tarea2\\Motor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:30:03.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea2\\Vendedor.cs",
+              "RelativeDocumentMoniker": "Tarea_1.4\\Tarea2\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea2\\Vendedor.cs",
+              "RelativeToolTip": "Tarea_1.4\\Tarea2\\Vendedor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:14:52.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistroVenta.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea2\\RegistroVenta.cs",
+              "RelativeDocumentMoniker": "Tarea_1.4\\Tarea2\\RegistroVenta.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea2\\RegistroVenta.cs",
+              "RelativeToolTip": "Tarea_1.4\\Tarea2\\RegistroVenta.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwDkAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:57:03.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea1\\Personaje.cs",
+              "RelativeDocumentMoniker": "Tarea_1.4\\Tarea1\\Personaje.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea1\\Personaje.cs",
+              "RelativeToolTip": "Tarea_1.4\\Tarea1\\Personaje.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:48:12.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tareas.cs",
+              "RelativeDocumentMoniker": "Tarea_1.4\\Tareas.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tareas.cs",
+              "RelativeToolTip": "Tarea_1.4\\Tareas.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T21:30:52.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea_1.4\\Program.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Program.cs",
+              "RelativeToolTip": "Tarea_1.4\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T21:05:22.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hechizo.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea1\\Hechizo.cs",
+              "RelativeDocumentMoniker": "Tarea_1.4\\Tarea1\\Hechizo.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea1\\Hechizo.cs",
+              "RelativeToolTip": "Tarea_1.4\\Tarea1\\Hechizo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:50:59.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Artefacto.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea1\\Artefacto.cs",
+              "RelativeDocumentMoniker": "Tarea_1.4\\Tarea1\\Artefacto.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\Tarea_1.4\\Tarea_1.4\\Tarea1\\Artefacto.cs",
+              "RelativeToolTip": "Tarea_1.4\\Tarea1\\Artefacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:51:09.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

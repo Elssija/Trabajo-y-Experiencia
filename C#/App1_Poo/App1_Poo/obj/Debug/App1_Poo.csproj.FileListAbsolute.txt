@@ -1,0 +1,9 @@
+C:\Users\aguil\source\repos\App1_Poo\App1_Poo\bin\Debug\App1_Poo.exe.config
+C:\Users\aguil\source\repos\App1_Poo\App1_Poo\bin\Debug\App1_Poo.exe
+C:\Users\aguil\source\repos\App1_Poo\App1_Poo\bin\Debug\App1_Poo.pdb
+C:\Users\aguil\source\repos\App1_Poo\App1_Poo\obj\Debug\App1_Poo.csproj.AssemblyReference.cache
+C:\Users\aguil\source\repos\App1_Poo\App1_Poo\obj\Debug\App1_Poo.Properties.Resources.resources
+C:\Users\aguil\source\repos\App1_Poo\App1_Poo\obj\Debug\App1_Poo.csproj.GenerateResource.cache
+C:\Users\aguil\source\repos\App1_Poo\App1_Poo\obj\Debug\App1_Poo.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\App1_Poo\App1_Poo\obj\Debug\App1_Poo.exe
+C:\Users\aguil\source\repos\App1_Poo\App1_Poo\obj\Debug\App1_Poo.pdb

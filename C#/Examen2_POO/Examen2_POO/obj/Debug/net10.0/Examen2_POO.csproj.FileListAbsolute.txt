@@ -1,0 +1,14 @@
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\bin\Debug\net10.0\Examen2_POO.exe
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\bin\Debug\net10.0\Examen2_POO.deps.json
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\bin\Debug\net10.0\Examen2_POO.runtimeconfig.json
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\bin\Debug\net10.0\Examen2_POO.dll
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\bin\Debug\net10.0\Examen2_POO.pdb
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\obj\Debug\net10.0\Examen2_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\obj\Debug\net10.0\Examen2_POO.AssemblyInfoInputs.cache
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\obj\Debug\net10.0\Examen2_POO.AssemblyInfo.cs
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\obj\Debug\net10.0\Examen2_POO.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\obj\Debug\net10.0\Examen2_POO.dll
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\obj\Debug\net10.0\refint\Examen2_POO.dll
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\obj\Debug\net10.0\Examen2_POO.pdb
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\obj\Debug\net10.0\Examen2_POO.genruntimeconfig.cache
+C:\Users\aguil\source\repos\Examen2_POO\Examen2_POO\obj\Debug\net10.0\ref\Examen2_POO.dll
