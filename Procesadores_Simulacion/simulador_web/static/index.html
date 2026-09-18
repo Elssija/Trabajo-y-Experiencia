@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Planificador Multiprocesador</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="scanline-overlay" aria-hidden="true"></div>
+
+<header class="topbar">
+  <div class="topbar__brand">
+    <span class="topbar__eyebrow">SISTEMA OPERATIVO · SIMULACION</span>
+    <h1 class="topbar__title">Planificador<span>Multiprocesador</span></h1>
+  </div>
+
+  <div class="topbar__telemetry">
+    <div class="clock" title="Ticks transcurridos del sistema">
+      <span class="clock__label">RELOJ DEL SISTEMA</span>
+      <span class="clock__value" id="relojValor">000000</span>
+      <span class="clock__unit">ticks</span>
+    </div>
+    <div class="pill" id="estrategiaPill">— sin iniciar —</div>
+  </div>
+</header>
+
+<main class="layout">
+
+  <!-- ============ PANEL DE CONFIGURACION ============ -->
+  <section class="panel config-panel" id="configPanel">
+    <h2 class="panel__title"><span class="panel__index">01</span> Configurar simulación</h2>
+
+    <div class="field">
+      <label class="field__label">Procesadores disponibles</label>
+      <div class="chip-group" id="grupoProcesadores">
+        <button type="button" class="chip" data-valor="2">2</button>
+        <button type="button" class="chip" data-valor="3">3</button>
+        <button type="button" class="chip" data-valor="4">4</button>
+        <button type="button" class="chip" data-valor="5">5</button>
+        <button type="button" class="chip" data-valor="6">6</button>
+      </div>
+      <p class="field__hint">Entre 2 y 6 núcleos compitiendo por la misma cola global.</p>
+    </div>
+
+    <div class="field">
+      <label class="field__label" for="inputHilos">Cantidad de hilos a generar</label>
+      <input type="number" id="inputHilos" class="text-input" min="1" value="8" inputmode="numeric">
+      <p class="field__hint">Cada hilo recibirá una carga aleatoria de 20 a 50 ticks.</p>
+    </div>
+
+    <div class="field">
+      <label class="field__label">Estrategia de planificación</label>
+      <div class="chip-group chip-group--wide" id="grupoEstrategia">
+        <button type="button" class="chip chip--wide" data-valor="1">FCFS</button>
+        <button type="button" class="chip chip--wide" data-valor="2">Round Robin</button>
+      </div>
+    </div>
+
+    <div class="field" id="campoQuantum" hidden>
+      <label class="field__label" for="inputQuantum">Tamaño del quantum (ticks)</label>
+      <input type="number" id="inputQuantum" class="text-input" min="1" value="5" inputmode="numeric">
+    </div>
+
+    <button type="button" class="btn-start" id="btnIniciar">
+      <span>Iniciar simulación</span>
+    </button>
+
+    <p class="config-panel__error" id="mensajeError"></p>
+  </section>
+
+  <!-- ============ DASHBOARD ============ -->
+  <section class="dashboard" id="dashboard" hidden>
+
+    <div class="dashboard__top">
+      <div class="panel resumen">
+        <h2 class="panel__title"><span class="panel__index">02</span> Estado general</h2>
+        <div class="resumen__grid">
+          <div class="resumen__dato">
+            <span class="resumen__valor" id="resumenGenerados">0</span>
+            <span class="resumen__etiqueta">hilos generados</span>
+          </div>
+          <div class="resumen__dato">
+            <span class="resumen__valor" id="resumenEspera">0</span>
+            <span class="resumen__etiqueta">en cola global</span>
+          </div>
+          <div class="resumen__dato">
+            <span class="resumen__valor" id="resumenTerminados">0</span>
+            <span class="resumen__etiqueta">terminados</span>
+          </div>
+        </div>
+        <div class="resumen__barra" aria-hidden="true">
+          <div class="resumen__barra-fill" id="resumenBarraFill"></div>
+        </div>
+        <p class="resumen__banner" id="bannerFin" hidden>✓ Simulación finalizada — todos los hilos terminaron.</p>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2 class="panel__title"><span class="panel__index">03</span> Núcleos procesadores</h2>
+      <div class="cores" id="contenedorCores"></div>
+    </div>
+
+    <div class="panel">
+      <h2 class="panel__title"><span class="panel__index">04</span> Cola global de hilos en espera</h2>
+      <div class="cola" id="contenedorCola">
+        <p class="cola__vacia" id="colaVacia">La cola global está vacía.</p>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2 class="panel__title"><span class="panel__index">05</span> Registro de hilos terminados</h2>
+      <div class="log" id="contenedorLog">
+        <p class="log__vacio" id="logVacio">Todavía no hay hilos terminados.</p>
+      </div>
+    </div>
+
+    <button type="button" class="btn-reset" id="btnReiniciar">Nueva simulación</button>
+  </section>
+
+  <!-- ============ CONSOLA / TERMINAL (solo visual, refleja el estado real) ============ -->
+  <section class="panel terminal-panel">
+    <h2 class="panel__title"><span class="panel__index">06</span> Consola del servidor</h2>
+    <div class="terminal">
+      <div class="terminal__barra">
+        <span class="terminal__punto terminal__punto--rojo"></span>
+        <span class="terminal__punto terminal__punto--amarillo"></span>
+        <span class="terminal__punto terminal__punto--verde"></span>
+        <span class="terminal__ruta">jairo@sistema: ~/planificador-multiprocesador — python3 server.py</span>
+      </div>
+      <div class="terminal__cuerpo" id="terminalCuerpo"></div>
+    </div>
+  </section>
+
+</main>
+
+<template id="plantillaCore">
+  <article class="core">
+    <header class="core__header">
+      <span class="core__nombre">CORE <span class="core__id"></span></span>
+      <span class="core__estado">libre</span>
+    </header>
+    <div class="core__hilo-info">
+      <span class="core__hilo-id">— sin hilo asignado —</span>
+      <span class="core__hilo-ticks"></span>
+    </div>
+    <div class="meter"></div>
+  </article>
+</template>
+
+<template id="plantillaChip">
+  <div class="cola__chip">
+    <span class="cola__chip-id"></span>
+    <span class="cola__chip-ticks"></span>
+  </div>
+</template>
+
+<template id="plantillaLog">
+  <div class="log__fila">
+    <span class="log__marca">✓</span>
+    <span class="log__id"></span>
+    <span class="log__detalle"></span>
+  </div>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>
